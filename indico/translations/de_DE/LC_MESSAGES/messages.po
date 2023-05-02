@@ -16894,7 +16894,7 @@ msgstr "Herr"
 
 #: indico/modules/users/models/users.py:41
 msgid "Ms"
-msgstr "Fräulein"
+msgstr "Frau"
 
 #: indico/modules/users/models/users.py:41
 msgid "Mrs"
